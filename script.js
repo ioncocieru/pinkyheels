@@ -27,6 +27,7 @@ function setLang(lang) {
 }
 
 // по умолчанию RU (можно выбрать другую)
-setLang("ru");
+setLang("ro");
+
 
 

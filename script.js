@@ -2,19 +2,19 @@ const messages = {
   ru: {
     title: "Данный сайт припаркован в гараже у Cocieru Ion",
     text: "Совсем скоро здесь появится что-то интересное!",
-    byline: "Сайт разрабатывается Cocieru Ion.",
+    byline: 🚧",
     contact: "Связаться в Instagram"
   },
   en: {
     title: "This website is parked in Cocieru Ion’s garage.",
     text: "Something exciting is coming very soon!",
-    byline: "Site developed by Cocieru Ion.",
+    byline: "🚧",
     contact: "Contact via Instagram"
   },
   ro: {
     title: "Acest site este parcat în garajul lui Cocieru Ion.",
     text: "Foarte curând aici va apărea ceva interesant!",
-    byline: "Site dezvoltat de Cocieru Ion.",
+    byline: "🚧",
     contact: "Contactează pe Instagram"
   }
 };
@@ -28,4 +28,5 @@ function setLang(lang) {
 
 // по умолчанию RU (можно выбрать другую)
 setLang("ru");
+
 
